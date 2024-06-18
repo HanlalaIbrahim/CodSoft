@@ -30,7 +30,7 @@ This repository includes machine learning models and projects that I developed d
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hanlala-ibrahim/)
+- LinkedIn: [Hanlala Ibrahim](https://www.linkedin.com/in/hanlala-ibrahim/)
 - Email: hanlalaibrahim1@gmail.com
 
 ---
