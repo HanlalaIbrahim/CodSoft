@@ -20,13 +20,13 @@ This repository includes machine learning models and projects that I developed d
 - **Description**: Created a machine learning model to predict the genre of a movie based on its plot summary or other textual information.
 - **Techniques Used**: TF-IDF, word embeddings
 - **Classifiers**: Naive Bayes, Logistic Regression
-- **Directory**: `movie-genre-prediction`
+- **Directory**: `Credit Card Fraud Detection`
 
 ### Task 2: Fraudulent Credit Card Transaction Detection
 
 - **Description**: Built a model to detect fraudulent credit card transactions using a dataset containing transaction information.
 - **Techniques Used**: Decision Trees
-- **Directory**: `fraud-detection`
+- **Directory**: `Credit Card Fraud Detection`
 
 If you have any questions or feedback, feel free to reach out to me:
 
