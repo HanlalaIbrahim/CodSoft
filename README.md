@@ -21,12 +21,14 @@ This repository includes machine learning models and projects that I developed d
 - **Techniques Used**: TF-IDF, word embeddings
 - **Classifiers**: Naive Bayes, Logistic Regression
 - **Directory**: `Movie Genre Classification`
+- **Dataset**: [Movie Genre Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 ### Task 2: Fraudulent Credit Card Transaction Detection
 
 - **Description**: Built a model to detect fraudulent credit card transactions using a dataset containing transaction information.
 - **Techniques Used**: Decision Trees
 - **Directory**: `Credit Card Fraud Detection`
+- **Dataset**: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 If you have any questions or feedback, feel free to reach out to me:
 
