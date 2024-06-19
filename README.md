@@ -8,6 +8,7 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
 - [Projects](#projects)
   - [Task 1: Movie Genre Prediction](#task-1-movie-genre-prediction)
   - [Task 2: Fraudulent Credit Card Transaction Detection](#task-2-fraudulent-credit-card-transaction-detection)
+  - [Task 3: Customer Churn Prediction](#task-3-customer-churn-prediction)
 
 ## Introduction
 
@@ -29,6 +30,13 @@ This repository includes machine learning models and projects that I developed d
 - **Techniques Used**: Decision Trees
 - **Directory**: `Credit Card Fraud Detection`
 - **Dataset**: [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
+### Task 3: Customer Churn Prediction
+
+- **Description**: Developed a model to predict customer churn for a subscription-based service or business using historical customer data, including usage behavior and demographics.
+- **Techniques Used**: Gradient Boosting
+- **Directory**: `customer-churn-prediction`
+- **Dataset**: [Customer Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
 If you have any questions or feedback, feel free to reach out to me:
 
