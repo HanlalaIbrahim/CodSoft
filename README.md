@@ -13,7 +13,7 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
 
 ## Introduction
 
-This repository includes machine learning models and projects that I developed during my internship at CodSoft. Each project is organized in its own directory with relevant code, data, and documentation.
+This repository includes machine learning models and projects that I developed during my internship at CodSoft. Each project is organized in its own directory with relevant code.
 
 ## Projects
 
