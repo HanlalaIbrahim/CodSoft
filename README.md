@@ -44,7 +44,7 @@ This repository includes machine learning models and projects that I developed d
 - **Description**: Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF and word embeddings with the Naive Bayes classifier.
 - **Techniques Used**: TF-IDF
 - **Classifiers**: Naive Bayes
-- **Directory**: `sms-spam-classification`
+- **Directory**: `Spam SMS Detection`
 - **Dataset**: [SMS Spam Dataset]([link-to-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset))
 
 If you have any questions or feedback, feel free to reach out to me:
