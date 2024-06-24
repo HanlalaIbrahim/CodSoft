@@ -9,6 +9,7 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
   - [Task 1: Movie Genre Prediction](#task-1-movie-genre-prediction)
   - [Task 2: Fraudulent Credit Card Transaction Detection](#task-2-fraudulent-credit-card-transaction-detection)
   - [Task 3: Customer Churn Prediction](#task-3-customer-churn-prediction)
+  - [Task 4: SMS Spam Classification](#task-4-sms-spam-classification)
 
 ## Introduction
 
@@ -19,7 +20,7 @@ This repository includes machine learning models and projects that I developed d
 ### Task 1: Movie Genre Prediction
 
 - **Description**: Created a machine learning model to predict the genre of a movie based on its plot summary or other textual information.
-- **Techniques Used**: TF-IDF, word embeddings
+- **Techniques Used**: TF-IDF
 - **Classifiers**: Naive Bayes, Logistic Regression
 - **Directory**: `Movie Genre Classification`
 - **Dataset**: [Movie Genre Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
@@ -37,6 +38,14 @@ This repository includes machine learning models and projects that I developed d
 - **Techniques Used**: Gradient Boosting
 - **Directory**: `customer-churn-prediction`
 - **Dataset**: [Customer Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+
+### Task 4: SMS Spam Classification
+
+- **Description**: Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF and word embeddings with the Naive Bayes classifier.
+- **Techniques Used**: TF-IDF
+- **Classifiers**: Naive Bayes
+- **Directory**: `sms-spam-classification`
+- **Dataset**: [SMS Spam Dataset]([link-to-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset))
 
 If you have any questions or feedback, feel free to reach out to me:
 
