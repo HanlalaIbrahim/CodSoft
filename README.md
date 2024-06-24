@@ -10,6 +10,9 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
   - [Task 2: Fraudulent Credit Card Transaction Detection](#task-2-fraudulent-credit-card-transaction-detection)
   - [Task 3: Customer Churn Prediction](#task-3-customer-churn-prediction)
   - [Task 4: SMS Spam Classification](#task-4-sms-spam-classification)
+- [Contact](#contact)
+
+---
 
 ## Introduction
 
@@ -46,6 +49,8 @@ This repository includes machine learning models and projects that I developed d
 - **Classifiers**: Naive Bayes
 - **Directory**: `Spam SMS Detection`
 - **Dataset**: [SMS Spam Dataset]([link-to-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset))
+
+## Contact
 
 If you have any questions or feedback, feel free to reach out to me:
 
