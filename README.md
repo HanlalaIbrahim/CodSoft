@@ -36,7 +36,7 @@ This repository includes machine learning models and projects that I developed d
 
 - **Description**: Developed a model to predict customer churn for a subscription-based service or business using historical customer data, including usage behavior and demographics.
 - **Techniques Used**: Gradient Boosting
-- **Directory**: `customer-churn-prediction`
+- **Directory**: `Customer Churn Prediction`
 - **Dataset**: [Customer Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
 ### Task 4: SMS Spam Classification
