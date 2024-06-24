@@ -44,7 +44,7 @@ This repository includes machine learning models and projects that I developed d
 
 ### Task 4: SMS Spam Classification
 
-- **Description**: Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF and word embeddings with the Naive Bayes classifier.
+- **Description**: Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF with the Naive Bayes classifier.
 - **Techniques Used**: TF-IDF
 - **Classifiers**: Naive Bayes
 - **Directory**: `Spam SMS Detection`
